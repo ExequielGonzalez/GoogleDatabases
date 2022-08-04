@@ -1,3 +1,6 @@
 [submodule "GoogleDatabases-Realtime"]
 	path = GoogleDatabases-Realtime
 	url = git@github.com:ExequielGonzalez/GoogleDatabases-Realtime.git
+[submodule "GoogleDatabases-BigQuery"]
+	path = GoogleDatabases-BigQuery
+	url = git@github.com:ExequielGonzalez/GoogleDatabases-BigQuery.git
